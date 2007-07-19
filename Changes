@@ -1,0 +1,8 @@
+Revision history for Net-AIML
+
+0.0.2  2007-05-13
+	   Change the simple example, clean up packaging, and add tests for kwalitee and pod
+	
+0.0.1  Sat Jul 22 16:08:53 2006
+       Initial release.
+
