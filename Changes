@@ -1,4 +1,6 @@
 Revision history for Net-AIML
+0.0.4	2007-12-23
+		- Remove Author Test
 0.0.3  2007-10-22
        - Fixed percritic.t per jrockway on #perl++
 

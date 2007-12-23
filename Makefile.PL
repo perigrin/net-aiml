@@ -15,5 +15,10 @@ build_requires 'Test::More' => '0.42';
 
 no_index 'directory' => 'examples';
 
+if ( -e 'inc/.author' ) {
+    use_test_base;
+    use_standard_tests;
+}
+
 auto_install;
 WriteAll;
